@@ -34,3 +34,8 @@ The Color Flash Challenge is perfect for anyone looking to sharpen their memory,
 
 **Get Started:**
 Ready to test your memory and focus? Launch the Color Flash Challenge now and see how far you can go! Happy memorizing!
+
+
+![Memory retention game](https://github.com/user-attachments/assets/cb57b6cd-bc68-48f1-8053-649e3dbb430e)
+
+
